@@ -1,2 +1,2 @@
 # datecheck
-datecheck
+My datecheck program.
